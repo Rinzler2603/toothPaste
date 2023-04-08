@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/toothPaste/static/css/main.c93ca039.css",
-    "main.js": "/toothPaste/static/js/main.3bee7f3b.js",
+    "main.js": "/toothPaste/static/js/main.d85a7a96.js",
     "static/js/787.71328600.chunk.js": "/toothPaste/static/js/787.71328600.chunk.js",
     "index.html": "/toothPaste/index.html",
     "main.c93ca039.css.map": "/toothPaste/static/css/main.c93ca039.css.map",
-    "main.3bee7f3b.js.map": "/toothPaste/static/js/main.3bee7f3b.js.map",
+    "main.d85a7a96.js.map": "/toothPaste/static/js/main.d85a7a96.js.map",
     "787.71328600.chunk.js.map": "/toothPaste/static/js/787.71328600.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c93ca039.css",
-    "static/js/main.3bee7f3b.js"
+    "static/js/main.d85a7a96.js"
   ]
 }
