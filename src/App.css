@@ -63,3 +63,13 @@ body {
     font-size: 5rem;
   }
 }
+
+@media (max-width:450px){ 
+  .img1{
+    margin-top: 8rem;
+    margin-bottom:3rem;
+  }
+  .img2{
+    display:none;
+  }
+}
